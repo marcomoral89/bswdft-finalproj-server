@@ -20,7 +20,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 if(env === 'development') {
         mongoose.connect('mongodb://localhost/dadjokes/db')
 } else {
-        mongoose.connect('mongodb://heroku_38lmg6p7:hrkg9r34mhstlls90jpm3gqdqg@ds125896.mlab.com:25896/heroku_38lmg6p7')
+        mongoose.connect('mongodb://morrie1989:Marcelo1989@ds125716.mlab.com:25716/dadjokes')
+        // mongoose.connect('mongodb://heroku_38lmg6p7:hrkg9r34mhstlls90jpm3gqdqg@ds125896.mlab.com:25896/heroku_38lmg6p7')
 }
 
 mongoose.Promise = global.Promise;

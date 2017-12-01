@@ -1,7 +1,7 @@
-﻿[
-  {
-    "name": "ashes",
-    "joke": "When the window fell into the incinerator, it was a pane in the ash to retrieve."
+﻿  [
+    {
+    "name": "He's Alright",
+    "joke": "Did you hear about the guy whose whole left side was cut off? He's all right now."
   },
   {
     "name": "pirate's favorite letter",
@@ -10,14 +10,6 @@
   {
     "name": "counting cows",
     "joke": "How do you count cows? A 'Cow'culator"
-  },
-  {
-    "name": "He's Alright",
-    "joke": "Did you hear about the guy whose whole left side was cut off? He's all right now."
-  },
-  {
-    "name": "Bakery Fire",
-    "joke": "My friend's bakery burned down last night. Now his business is toast."
   },
   {
     "name": "Nut Assault",
@@ -32,60 +24,24 @@
     "joke": "I used to be a banker but I lost interest"
   },
   {
+    "name": "Bakery Fire",
+    "joke": "My friend's bakery burned down last night. Now his business is toast."
+  },
+  {
     "name": "Golfer Pants",
     "joke": "Why did the golfer bring two pairs of pants? In case he got a hole-in-one."
-  },
-  {
-    "name": "Lieutenant Dan",
-    "joke": "To the man in the wheelchair that stole my camouflage jacket; You can hide, but you can't run."
-  },
-  {
-    "name": "Flamingo",
-    "joke": "When my wife told me to stop impersonating a flamingo, I had to put my foot down."
-  },
-  {
-    "name": "My Day",
-    "joke": "The rotation of earth really makes my day."
-  },
-  {
-    "name": "Chickens can't drive",
-    "joke": "Why do chicken coops only have two doors? Because if they had four, they would be chicken sedans."
   },
   {
     "name": "Bel Air",
     "joke": "How do you find Will Smith in the snow? You look for the fresh prints."
   },
   {
-    "name": "No Charge",
-    "joke": "A proton, an electron, & a neutron walk into a bar. The proton orders a shot, drinks it, pulls out his wallet, and pays the bartender. The electron orders a shot, drinks it, pulls out his wallet, and pays the bartender. The neutron orders a shot, drinks it, then pulls out his wallet. The bartender stops him and says, \"for you, no charge...\""
-  },
-  {
-    "name": "I'm Positive",
-    "joke": "Two atoms are walking down the street. One says, \"Oh no! I lost an electron!\", The other asks him, \"Are you sure?\", The first one says, \"Yeah, I'm positive\""
-  },
-  {
-    "name": "Sandwich",
-    "joke": "A ham sandwich walks into a bar and orders a beer. The bartender looks at him and says, ‘Sorry we don’t serve food here."
-  },
-  {
-    "name": "I Can't Hear This Joke",
-    "joke": "What is Beethoven’s favorite fruit? A ba-na-na-na."
-  },
-  {
     "name": "Exhaust",
     "joke": "I had a dream that I was a muffler last night. I woke up exhausted."
   },
   {
-    "name": "Watch Your Head",
-    "joke": "Two guys walk into a bar, the third one ducks."
-  },
-  {
-    "name": "Every 6 Months",
-    "joke": "What time did the man go to the dentist? Tooth hurt-y."
-  },
-  {
-    "name": "Color Blind",
-    "joke": "Found out I was colour blind the other day... That one came right out the purple."
+    "name": "Sandwich",
+    "joke": "A ham sandwich walks into a bar and orders a beer. The bartender looks at him and says, ‘Sorry we don’t serve food here."
   },
   {
     "name": "Thing Factory",
@@ -94,14 +50,6 @@
   {
     "name": "Thoughtful Clown",
     "joke": "Yesterday a clown held a door open for me. I thought it was a nice jester."
-  },
-  {
-    "name": "Frog Facts",
-    "joke": "Just read a few facts about frogs. They were ribbiting."
-  },
-  {
-    "name": "Trampoline Bed",
-    "joke": "I just swapped our bed for a trampoline. My wife hit the roof."
   },
   {
     "name": "24 Hours",
@@ -116,20 +64,8 @@
     "joke": "What's the difference between a well dressed man on a a bicycle and a poorly dressed man on a tricycle? Attire!"
   },
   {
-    "name": "Pirate Birthday",
-    "joke": "What did the pirate say on his 80th birthday? Aye matey"
-  },
-  {
-    "name": "Italians",
-    "joke": "What do you call a sketchy Italian neighbourhood? The Spaghetto."
-  },
-  {
-    "name": "Kleptomania",
-    "joke": "I have kleptomania, but when it gets bad, I take something for it."
-  },
-  {
-    "name": "Doorbells",
-    "joke": "Doorbells, don't knock 'em."
+    "name": "Every 6 Months",
+    "joke": "What time did the man go to the dentist? Tooth hurt-y."
   },
   {
     "name": "Tropical Diet",
@@ -140,108 +76,80 @@
     "joke": "Whiteboards are remarkable."
   },
   {
-    "name": "I Wish I Had Laser Hair",
-    "joke": "Why do so many people with laser hair want to get it removed?"
+    "name": "Italians",
+    "joke": "What do you call a sketchy Italian neighbourhood? The Spaghetto."
   },
   {
     "name": "Terror Of The Skies",
     "joke": "What has twenty legs and flies? Ten pairs of pants."
   },
   {
-    "name": "The Incredible Mr. Dead",
-    "joke": "What has twenty legs and flies? Five dead Horses."
+    "name": "Pirate Birthday",
+    "joke": "What did the pirate say on his 80th birthday? Aye matey"
+  },
+  {
+    "name": "Kleptomania",
+    "joke": "I have kleptomania, but when it gets bad, I take something for it."
   },
   {
     "name": "Eye Love This Joke",
     "joke": "What do you call a fish with no eyes? Fsh."
   },
   {
-    "name": "I'll Never Let Go Of This Joke",
-    "joke": "What do you get if you cross the Atlantic with the Titanic? About halfway."
-  },
-  {
-    "name": "Why Don't They Just Open A Bankery",
-    "joke": "Why do bakers work so hard? They knead the dough."
+    "name": "The Royal Flush Of The Jungle",
+    "joke": "Why shouldn't you play cards in the jungle? Too many cheetahs."
   },
   {
     "name": "Meling",
     "joke": "What do you call a man with a rug on his head? Matt."
   },
   {
-    "name": "The Royal Flush Of The Jungle",
-    "joke": "Why shouldn't you play cards in the jungle? Too many cheetahs."
-  },
-  {
-    "name": "Obviously",
-    "joke": "What's big, red, and eats rocks? A big, red, rock-eater."
-  },
-  {
     "name": "A Toast To Monkey Jokes",
     "joke": "How do you make toast in the jungle? Pop your bread under a g'rilla."
-  },
-  {
-    "name": "These Jokes Have Sunk So Low",
-    "joke": "What lies on the ocean floor and shivers? A nervous wreck."
   },
   {
     "name": "Wanted For Eight Armed Robbery",
     "joke": "Who is the quickest draw in the ocean? Billy the Squid."
   },
   {
+    "name": "My Nephew",
+    "joke": "What's brown and sticky? A stick."
+  },
+  {
     "name": "Prison Jewelry",
     "joke": "What's the difference between a jeweller and a prison warden? One sells watches, and the other watches cells."
   },
   {
-    "name": "My Nephew",
-    "joke": "What's brown and sticky? A stick."
+    "name": "Why Don't They Just Open A Bankery",
+    "joke": "Why do bakers work so hard? They knead the dough."
   },
   {
     "name": "Banana Joke For Scale",
     "joke": "Why did the banana go to the doctors'? He wasn't peeling very well."
   },
   {
-    "name": "Napoleonic Bad Joke",
-    "joke": "Where did Napoleon keep his armies? Up his sleevies."
-  },
-  {
-    "name": "Andes Are In The Candy Aisle",
-    "joke": "Where are the Andes? At the end of your armies."
-  },
-  {
-    "name": "Lawnmower Bird-Man",
-    "joke": "What do you get when you run over a bird with your lawnmower? Shredded tweet."
-  },
-  {
-    "name": "This Piano Jokes Struck A Chord",
-    "joke": "What do you get if you drop a piano down a coal shaft? A flat minor."
-  },
-  {
     "name": "Burglars",
     "joke": "How does a burglar get into your house? Intruder window."
-  },
-  {
-    "name": "Just The Tip Of The Worm",
-    "joke": "What's worse than finding a worm in your apple? Finding half a worm."
-  },
-  {
-    "name": "If You Count Alcoholics As Wealth",
-    "joke": "What is the richest country in the world? Ireland. Its capital is always Dublin."
   },
   {
     "name": "Do Androids Dream of Electric Clouds?",
     "joke": "What do you call a sheep with no legs? A cloud."
   },
   {
-    "name": "Beef Oven",
-    "joke": "What was Beethoven's fifth favorite fruit? Ba-na-na-na."
-  },
-  {
     "name": "Your Grapes Take My Breath Away",
     "joke": "What did the green grape say to the purple grape? Breathe, you fool, breathe!"
   },
   {
+    "name": "This Piano Jokes Struck A Chord",
+    "joke": "What do you get if you drop a piano down a coal shaft? A flat minor."
+  },
+  {
     "name": "Soul Duck",
     "joke": "How do you turn a duck into a soul singer? Put it in a microwave until its bill withers."
+  },
+  {
+    "name": "If You Count Alcoholics As Wealth",
+    "joke": "What is the richest country in the world? Ireland. Its capital is always Dublin."
   },
   {
     "name": "A Wall Of movies",
@@ -256,18 +164,6 @@
     "joke": "Why did the octopus beat the shark in a fight? Because it was well armed."
   },
   {
-    "name": "Color Me Concerned",
-    "joke": "A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned."
-  },
-  {
-    "name": "Swiss Cheesey",
-    "joke": "What's the advantage of living in Switzerland? Well, the flag is a big plus."
-  },
-  {
-    "name": "This Joke Expired Years Ago",
-    "joke": "I am terrified of elevators. I'm going to start taking steps to avoid them."
-  },
-  {
     "name": "The Dream Was Deep In Soda Me",
     "joke": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea."
   },
@@ -276,24 +172,8 @@
     "joke": "My cat just threw up on the carpet. I don't think it's feline well."
   },
   {
-    "name": "My Type Of Humor",
-    "joke": "I went to the doctor today and he told me I had type A blood, but it was a type O."
-  },
-  {
-    "name": "Tasteless Joke",
-    "joke": "Today a girl said she recognized me from vegetarian club, but I'm sure I've never met herbivore."
-  },
-  {
     "name": "They Pinch Pennies",
     "joke": "Why do crabs never give to charity? Because they're shellfish."
-  },
-  {
-    "name": "The End Of The Joke",
-    "joke": "People keep making apocalypse jokes like there's no tomorrow."
-  },
-  {
-    "name": "Light Up Their Christmas",
-    "joke": "If you're struggling to think of what to get someone for Christmas. Get them a fridge, and watch their face light up when they open it."
   },
   {
     "name": "Czech This Joke Out",
@@ -304,18 +184,6 @@
     "joke": "Did you hear about the new restaurant on the moon? The food is great, but there's just no atmosphere."
   },
   {
-    "name": "Milking Fast",
-    "joke": "Milk is also the fastest liquid on earth. It's pasteurized before you even see it."
-  },
-  {
-    "name": "Small Thefts",
-    "joke": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads \"Small medium at large.\""
-  },
-  {
-    "name": "I Take My Puns Rare",
-    "joke": "A steak pun is a rare medium well done."
-  },
-  {
     "name": "Clean Vocals",
     "joke": "Singing in the shower is all fun and games until you get shampoo in your mouth. Then it's a soap opera."
   },
@@ -324,31 +192,227 @@
     "joke": "Why can't you hear a pterodactyl using the bathroom? Because the P is silent."
   },
   {
-    "name": "Jump In Price",
-    "joke": "The price of bouncy castles have doubled this year. That's inflation for you."
-  },
-  {
-    "name": "It's NOT Funny, Chocolate",
-    "joke": "Whenever I want to start eating healthy, a chocolate bar looks at me and Snickers."
-  },
-  {
-    "name": "Banana Hands",
-    "joke": "What do you get hanging off banana trees? Sore arms."
-  },
-  {
-    "name": "Perforated Hatred",
-    "joke": "I hate perforated lines, they're tearable."
-  },
-  {
     "name": "I Predict A Heart Attack",
     "joke": "What do you call a fat psychic? A four-chin teller."
+  },
+  {
+    "name": "This Joke Will Spark A Laugh",
+    "joke": "What's the difference between a hippo and a Zippo? One is heavy, and the other is a little lighter."
   },
   {
     "name": "Uno Joke, Por Favor",
     "joke": "A Mexican magician says he'll disappear on the count of 3; \"Uno... dos... poof...\". He disappeared without a tres."
   },
   {
-    "name": "This Joke Will Spark A Laugh",
-    "joke": "What's the difference between a hippo and a Zippo? One is heavy, and the other is a little lighter."
+    "name": "Tasteless Joke",
+    "joke": "Today a girl said she recognized me from vegetarian club, but I'm sure I've never met herbivore."
+  },
+  {
+    "name": "A gigabyte",
+    "joke": "You heard of that new band 1023MB? They're good but they haven't got a gig yet."
+  },
+  {
+    "name": "Book on anti-gravity",
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!"
+  },
+  {
+    "name": "Greece Fries",
+    "joke": "Did you know the first French fries weren't actually cooked in France? They were cooked in Greece."
+  },
+  {
+    "name": "Piece of paper",
+    "joke": "Want to hear a joke about a piece of paper? Never mind... it's tearable."
+  },
+  {
+    "name": "Beaver Show",
+    "joke": "I just watched a documentary about beavers. It was the best dam show I ever saw!"
+  },
+  {
+    "name": "Fake Pasta",
+    "joke": "What do you call a fake noodle? An Impasta."
+  },
+  {
+    "name": "Lost Car",
+    "joke": "What do you call a Mexican who has lost his car? Carlos."
+  },
+  {
+    "name": "Scarecrow outstanding",
+    "joke": "Why did the scarecrow win an award? Because he was outstanding in his field."
+  },
+  {
+    "name": "Standing Bicycle",
+    "joke": "Why couldn't the bicycle stand up by itself? It was two tired."
+  },
+  {
+    "name": "Joke about coke",
+    "joke": "I got hit in the head with a can of Diet Coke today. Don't worry, I'm not hurt. It was a soft drink"
+  },
+  {
+    "name": "Tickle an octopus",
+    "joke": "How do you make an octopus laugh? With ten-tickles"
+  },
+  {
+    "name": "Best way to watch fishing",
+    "joke": "What's the best way to watch a fly fishing tournament? Live stream"
+  },
+  {
+    "name": "Vampire Shopping",
+    "joke": "Where did the college-aged vampire like to shop? Forever 21."
+  },
+  {
+    "name": "Buffalo's first day",
+    "joke": "What did the buffalo say to his son when he dropped him off at school? Bison"
+  },
+  {
+    "name": "Vampire Snowman",
+    "joke": "What do you get when you cross a snowman with a vampire? Frostbite."
+  },
+  {
+    "name": "Dad's weight",
+    "joke": "SERVER: \"Sorry about your wait.\" DAD: \"Are you saying I’m fat?"
+  },
+  {
+    "name": "Popcorn Family",
+    "joke": "What did the baby corn say to the mama corn?Where's pop corn?"
+  },
+  {
+    "name": "Computer Sings",
+    "joke": "What computer sings the best? A Dell."
+  },
+  {
+    "name": "Peter pan",
+    "joke": "Why is Peter Pan always flying? Because he neverlands."
+  },
+  {
+    "name": "Samsung Guards",
+    "joke": "What do you call security guards working outside Samsung shops? Guardians of the Galaxy."
+  },
+  {
+    "name": "Jay-z Fiance",
+    "joke": "What did Jay-Z call his girlfriend before getting married? Feyoncè."
+  },
+  {
+    "name": "Wake up lady gaga",
+    "joke": "How do you wake up Lady Gaga? Poker face"
+  },
+  {
+    "name": "Koala Job Applicatoin",
+    "joke": "Why aren’t koalas actual bears? They don’t meet the koalafications."
+  },
+  {
+    "name": "Panda Customer",
+    "joke": "Who walks into a restaurant, eats shoots and leaves? A Panda "
+  },
+  {
+    "name": "Nasa Party Planner",
+    "joke": "How does NASA organize a party?\nThey planet"
+  },
+  {
+    "name": "The Ball",
+    "joke": "Where do hamburgers go to dance? They go to the meat-ball "
+  },
+  {
+    "name": "Fisherman Magic",
+    "joke": "What did the fisherman say to the magician? Pick a cod, any cod! "
+  },
+  {
+    "name": "Lemon is sick",
+    "joke": "What do you give to a sick lemon? Lemon aid! "
+  },
+  {
+    "name": "Frog Drives",
+    "joke": "Why did the frog take the bus to work? His car got toad. "
+  },
+  {
+    "name": "Soda Crusher Quits",
+    "joke": "Why did the can crusher quit his job? \nBecause it was soda pressing. "
+  },
+  {
+    "name": "Sensitive Burglar",
+    "joke": "Did you hear about the sensitive burglar? He takes things personally. "
+  },
+  {
+    "name": "Prisoner Calls Prisoner",
+    "joke": "What do prisoners use to call each other? Cell phones. "
+  },
+  {
+    "name": "Computer Dance",
+    "joke": "Where did the computer go to dance? To a disc-o "
+  },
+  {
+    "name": "Funny Hill",
+    "joke": " What do you call a funny mountain? Hill-arious! "
+  },
+  {
+    "name": "Hannibal Soup",
+    "joke": "What do you call a can of soup that eats other cans of soup? A CANnibal. "
+  },
+  {
+    "name": "Butter Rumours",
+    "joke": "You heard the rumor going around about butter? Never mind, I shouldn't spread it."
+  },
+  {
+    "name": "House clothing",
+    "joke": "What does a house wear? A-ddress. "
+  },
+  {
+    "name": "MJ Denim Store",
+    "joke": "What did Michael Jackson call his denim store? Billie Jeans"
+  },
+  {
+    "name": "Ghost poop",
+    "joke": "What do you call a ghost poop? Boo-boo"
+  },
+  {
+    "name": "Toilet Paper Crossing",
+    "joke": "Why couldn't the toilet paper cross the road? He got stuck on a crack"
+  },
+  {
+    "name": "JaRule's Hit Contract",
+    "joke": "What did Ja-Rule use to sign a hitman contract? Murder Ink"
+  },
+  {
+    "name": "Spaghetti Movie",
+    "joke": "If Spaghetti made an action movie, what would it be called? Mission Im-pasta-ble"
+  },
+  {
+    "name": "Mermaid Wash",
+    "joke": "What do mermaids use to wash their fins with? Tide"
+  },
+  {
+    "name": "Blazer",
+    "joke": "What do you call a jacket that goes up in flames? Blazer"
+  },
+  {
+    "name": "Fun Guy",
+    "joke": "What did the mushroom say to impress his date? I'm a FunGi"
+  },
+  {
+    "name": "Dog watching videos",
+    "joke": "How did the dog stop the video? It hit the paws button"
+  },
+  {
+    "name": "Burger's Girlfriend",
+    "joke": "How did the hamburger introduce his girlfriend? Meat Patty"
+  },
+  {
+    "name": "Pixar Movies",
+    "joke": "Rick Astley will let you borrow any of his Pixar Movies except for one, He's never gonna give you UP"
+  },
+  {
+    "name": "Wrapper",
+    "joke": "I wrote a song about Tortilla, it's more of a Wrap"
+  },
+  {
+    "name": "Blind Man Walking",
+    "joke": "Why did the blind man fall into the well? He didn't see that well"
+  },
+  {
+    "name": "No leg cow",
+    "joke": "What do you call a cow without legs? Ground beef"
+  },
+  {
+    "name": "Weak Days",
+    "joke": "What are the strongest days of the week? Saturday & Sunday, the rest are weak days"
   }
 ]
